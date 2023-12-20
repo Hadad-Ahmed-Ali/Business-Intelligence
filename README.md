@@ -11,7 +11,8 @@ qui semblent être les plus pertinents pour chaque cible.
 
                                   Les differents Users-Stories
 
-hhhh
+hhhh ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/a6e3dd5d-9fb0-46fc-94a3-21f938b7cb94)
+
 
                                   Identifications des KPIs
 Nous avons identifié quatre KPI à savoir le profit, les ventes, le chiffre d’affaires et le coût.
