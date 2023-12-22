@@ -14,7 +14,8 @@ qui semblent être les plus pertinents pour chaque cible.
 
                                   Les differents Users-Stories
 
-hhhhhh
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/eb8f7cf0-f5d2-41c3-bd45-cb118eb6a142)
+
 
                                   Identifications des KPIs
 Nous avons identifié quatre KPI à savoir le profit, les ventes, le chiffre d’affaires et le coût.
@@ -24,6 +25,8 @@ Nous avons identifié quatre KPI à savoir le profit, les ventes, le chiffre d�
 Le prototypage émerge comme une étape importante dans notre approche pour répondre aux demandes des responsables. Nous utilisons cette méthode pour regrouper les User Stories en fonction
 de KPI spécifiques. Cette méthode offre ainsi une vue structurée des exigences alignées sur les objectifs stratégiques de l’entreprise.
 En identifiant les KPI tels que le Profit, les Ventes, le Chiffre d’affaires et les Coûts, nous organisons nos User Stories en quatres prototypes distincts.
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/123ec3c3-b9a3-4a4e-a529-0e8cf23002b7)
+
 
                                 Maquettages
                                 
@@ -38,6 +41,7 @@ c'est-à-dire selon les KPIs.
 
 
                            1- Maquette qui réponds au premier prototype
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/826ebe8e-b57f-47ed-b3de-4192672ff3ba)
 
 On a créé un paramètre top N states qui ordonne les States en fonction du profit.
 Nous avons ensuite créé 2 ensembles : Ensemble State et Ensemble State 2 en leur fixant comme
@@ -50,6 +54,8 @@ De même, dans la vue ’Total Profit par Catégorie et Région’, une infobull
 l’origine du profit d’une catégorie en fonction des sous-catégories.
 
                            2- Maquette qui réponds au deuxième prototype
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/4173913b-52f4-4bca-a775-44ff90e275c9)
+
 On a créé un champ calculé coût en faisant la formule [ventes-profit] afin d’évaluer la rentabilité,
 l’efficacité des opérations, l’optimisation de l’utilisation des ressources et nous aider à prendre des
 décisions.
@@ -64,12 +70,14 @@ total de 160 683 ventes. De manière générale, le mode d’expédition ’Stan
 Nous avons remarqué qu’il y a eu 1 209K ventes avec remise contre 1 088K ventes sans remises.
 
                              3- Maquette qui réponds au troisième prototype
-                             
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/37ac3000-31f9-4bf1-ad27-848fcbc7b99c)
+                            
 On a fait un champ calculé ’Chiffre d’affaire’ en effectuant la somme des profits afin d’évaluer la
 performance financière de notre entreprise.
 Nous constatons que c’est en 2023 qu’il y a eu le meilleur chiffre d'affaires, et une grande partie de ce  montant provient principalement de la région Ouest.
 
                              4- Maquette qui réponds au quatrième prototype
+![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/306b3a3b-1dda-494e-b861-0d861343375b)
 
 On a créé un champ calculé coût en faisant la formule [ventes-profit] afin d’optimiser l’utilisation des ressources.
 On a créé une infobulle qui montre la provenance du coût pour chaque région dans chaque catégorie de
