@@ -1,5 +1,5 @@
                                        Remarque
-Sachez que je vous mets ci-joint le fichier tableau que vous pouvez ouvrir afin de bien visualiser mon travail dans le tableau, pour se faire vous devez avoir installer  tableau dans votre ordinateur.
+Je vous mets ci-joint le fichier tableau que vous pouvez ouvrir afin de bien visualiser mon travail dans le tableau, pour se faire vous devez avoir installer  tableau dans votre ordinateur.
 
                                        But du Projet
 
