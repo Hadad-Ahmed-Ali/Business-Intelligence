@@ -1,5 +1,6 @@
                                        Remarque
 Je vous joins le fichier tableau en pièce jointe. Vous pouvez l'ouvrir pour bien visualiser mon travail dans tableau. Pour ce faire, vous devez avoir installé Tableau sur votre ordinateur.
+
                                        But du Projet
 
 Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, la direction a fait appel à son équipe de Data Analysts.
