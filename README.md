@@ -1,10 +1,10 @@
                                        Remarque
-Je vous joins le fichier tableau en pièce jointe. Vous pouvez l'ouvrir pour bien visualiser mon travail dans tableau. Pour ce faire, vous devez avoir installé Tableau sur votre ordinateur.
+- Je vous joins le fichier tableau en pièce jointe. Vous pouvez l'ouvrir pour bien visualiser mon travail dans tableau. Pour ce faire, vous devez avoir installé Tableau sur votre ordinateur.
+- C'est un projet académique de mon Master 1, où l'objectif est l'élaboration des tableaux des bodrs interactifs pour de maitriser l'outil Tableau. 
 
                                        But du Projet
 
-Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, la direction a fait appel à son équipe de Data Analysts.
-Sa mission consiste à mettre en place des tableaux de bord dynamiques permettant un suivi efficace des KPI et facilitant la prise de décisions stratégiques. 
+Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, je dois mettre en place des tableaux de bord dynamiques permettant un suivi efficace des KPI et facilitant la prise de décisions stratégiques. 
 L’entreprise de vente au détail fait face à des difficultés financières : 
                     Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?
 
