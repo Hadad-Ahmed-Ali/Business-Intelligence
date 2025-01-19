@@ -44,6 +44,8 @@ Ces prototypes offrent une base solide pour la conception de tableaux de bord in
 
 
                                 Les Taleaux de bord
+                                
+Voici les tableaux de bord conçus pour répondre aux différents prototypes définis, chacun étant aligné avec les indicateurs de performance (KPI) spécifiques.
 
                            1- Taleaux de bord qui réponds au premier prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/826ebe8e-b57f-47ed-b3de-4192672ff3ba)
