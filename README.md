@@ -73,8 +73,8 @@ On a fait un champ calculé temps de préparation en faisant la formule **[Order
 
 On a également fait un champ calculé des **ventes avec/sans remise**. Elle permet d’analyser l’impact spécifique des remises sur le chiffre d’affaire global en évaluant la contribution des remises à la croissance des ventes, en identifiant les produits ou les segments qui bénéficient le plus de remises.
 
-Ici nous constatons qu’en général, c’est la catégorie ’Office Supplies’ qui est la plus vendue, avec un
-total de 160 683 ventes. De manière générale, le mode d’expédition ’Standard Class’ est le plus utilisé.
+Ici nous constatons qu’en général, c’est la catégorie **Office Supplies** qui est la plus vendue, avec un
+total de 160 683 ventes. De manière générale, le mode d’expédition **Standard Class** est le plus utilisé.
 Nous avons remarqué qu’il y a eu 1 209K ventes avec remise contre 1 088K ventes sans remises.
 
                              3- Taleaux de bord qui réponds au troisième prototype
