@@ -1,53 +1,51 @@
 
                                      But du Projet
-  
-Il s'agit d'un projet académique réalisé dans le cadre de mon Master 1. L'objectif de ce projet est de savoir transformer les aveux de l'entreprise (comprendres les Users story), savoir identifier des indicateurs de performances au vu des Users stories et en fin concevoir des tableaux de bord interactifs afin de maîtriser l'utilisation de Tableau. 
 
+Ce projet académique, réalisé dans le cadre de mon Master 1, a pour objectif :
+- De comprendre les attentes de l’entreprise à travers l’analyse des users stories.
+- D’identifier des indicateurs de performance (KPI) pertinents en fonction des users stories.
+- De concevoir des tableaux de bord interactifs afin de maîtriser l’utilisation de l’outil Tableau.
 
                                      Contexte
 
-Il s'agit d'une entreprise américaine, elle opere sur la vente au détail partout dans le monde. Les données disponibles concernent uniquement les données relatives des ventes effectuées aux Etats Unis. 
+Le projet est basé sur les données d’une entreprise américaine spécialisée dans la vente au détail à l’échelle mondiale. Cependant, les données disponibles concernent uniquement les ventes effectuées aux États-Unis.
 
-Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, je dois mettre en place des tableaux de bord dynamiques permettant un suivi efficace de certaines indicateurs de performence (KPI) et facilitant la prise de décisions stratégiques. 
-D'une façon précise, le context est le suivant:
-    L’entreprise de vente au détail fait face à des difficultés financières : 
-                    **Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?**
+Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques adaptées aux différents niveaux de responsabilité, l’objectif est de développer des tableaux de bord dynamiques permettant :
+- Un suivi efficace des indicateurs de performance (KPI).
+- Une prise de décision éclairée et stratégique.
 
                                        Remarque
-Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l'ouvrir pour visualiser mon travail dans l'outil Tableau. Assurez-vous d'avoir installé Tableau sur votre ordinateur.
+Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l’ouvrir pour visualiser mon travail dans l’outil Tableau.
 
                                   Les differents Users-Stories
 
-J'ai recueilli les informations ( les aveux) provenant de différentes parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier et le Responsable Import/Export, ont été identifiés comme cibles:
+Voici les besoins recueillis auprès des parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier et le Responsable Import/Export, qui ont permis d’identifier des attentes spécifiques et des objectifs à intégrer dans la conception des tableaux de bord interactifs:
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/eb8f7cf0-f5d2-41c3-bd45-cb118eb6a142)
 
 
                                   Identifications des Indicateurs de performence (KPI)
 
-A la suite des informatioons obtenues pour chaque partie prenante, j'ai identifié quatres indicateurs clés de performance notament **le profit, les ventes, le chiffre d’affaires et le coût**.
+À partir des informations recueillies auprès des différentes parties prenantes, j’ai identifié quatre indicateurs clés de performance : **le profit, les ventes, le chiffre d’affaires et le coût**, qui ont été sélectionnés pour leur pertinence dans l’évaluation des performances de l’entreprise et leur impact stratégique.
 
                                   Prototypage
 
-Le prototypage émerge comme une étape importante dans notre approche pour répondre aux demandes des responsables. Nous utilisons cette méthode pour regrouper les User Stories en fonction de indicateurs de performance spécifiques. Cette méthode offre ainsi une vue structurée des exigences alignées sur les objectifs stratégiques de l’entreprise.
-En identifiant les indicateurs de performance tels que le **Profit, les Ventes, le Chiffre d’affaires et les Coûts**, nous organisons nos User Stories en quatres prototypes distincts.
+Le prototypage constitue une étape essentielle pour répondre efficacement aux attentes des responsables. Cette méthode permet de regrouper les users stories en fonction des indicateurs de performance spécifiques, offrant ainsi une vue structurée et alignée sur les objectifs stratégiques de l’entreprise.
+
+En nous concentrant sur les indicateurs de performance identifiés (Profit, Ventes, Chiffre d’affaires, Coûts), nous avons développé quatre prototypes distincts :
+- Prototype lié au profit – Pour analyser les marges bénéficiaires.
+- Prototype lié aux ventes – Pour suivre les volumes et tendances des ventes.
+- Prototype lié au chiffre d’affaires – Pour évaluer les revenus générés.
+- Prototype lié aux coûts – Pour identifier les postes de dépense et optimiser les ressources.
+  
+Ces prototypes offrent une base solide pour la conception de tableaux de bord interactifs, adaptés aux besoins de l’entreprise et des parties prenantes.
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/123ec3c3-b9a3-4a4e-a529-0e8cf23002b7)
 
 
-                                Maquettages
-                                
-Le maquettage représente la troisième étape dans notre processus d’analyse. Il fournit une représentation visuelle préliminaire de l’interface utilisateur du tableau de bord. C’est une méthode rapide
-et efficace pour donner forme à des idées conceptuelles et explorer diverses structures et mises en page
-pour chaque prototype déjà établi. Cette pratique nous permet non seulement de recueillir des retours
-précoces et d’itérer rapidement sur le design, mais également de nous assurer que la vision du produit
-est alignée avec les attentes des responsables du métier.
+                                Les Taleaux de bord
 
-Dans la suite, on présente les maquette qui représentent les tableaux de bords répondants aux différents Users-Storie selons la répartitions des prototypes 
-c'est-à-dire selon les KPIs.
-
-
-                           1- Maquette qui réponds au premier prototype
+                           1- Taleaux de bord qui réponds au premier prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/826ebe8e-b57f-47ed-b3de-4192672ff3ba)
 
 On a créé un paramètre top N states qui ordonne les States en fonction du profit.
@@ -60,35 +58,39 @@ du profit de chaque État en fonction des catégories.
 De même, dans la vue ’Total Profit par Catégorie et Région’, une infobulle est utilisé pour montrer
 l’origine du profit d’une catégorie en fonction des sous-catégories.
 
-                           2- Maquette qui réponds au deuxième prototype
+                           2- Taleaux de bord qui réponds au deuxième prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/4173913b-52f4-4bca-a775-44ff90e275c9)
 
-On a créé un champ calculé coût en faisant la formule [ventes-profit] afin d’évaluer la rentabilité,
-l’efficacité des opérations, l’optimisation de l’utilisation des ressources et nous aider à prendre des
-décisions.
-On a également choisi un champ calculé temps de préparation en faisant la formule (order date ship date). Il nous a permis d’évaluer la performance opérationnelle de notre logistique. Il nous a
-permis également de faire le suivi des tendances au fil du temps.
-On a également fait un champ calculé des ventes avec/sans remise en faisant la formule si discount>0 (c’est un booléen). Elles nous ont permises d’analyser l’impact spécifique des remises sur le
-chiffre d’affaire global en évaluant la contribution des remises à la croissance des ventes, en identifiant
-les produits ou les segments qui bénéficient le plus de remises. Elles nous ont permises de segmenter
-nos données.
+On a fait un champ calculé temps de préparation en faisant la formule **[Order Date - Ship Date]** qui pert d’évaluer la performance logistique et la rapidité des opérations.
+
+On a également fait un champ calculé des **ventes avec/sans remise**. Elle permet d’analyser l’impact spécifique des remises sur le chiffre d’affaire global en évaluant la contribution des remises à la croissance des ventes, en identifiant les produits ou les segments qui bénéficient le plus de remises.
+
 Ici nous constatons qu’en général, c’est la catégorie ’Office Supplies’ qui est la plus vendue, avec un
 total de 160 683 ventes. De manière générale, le mode d’expédition ’Standard Class’ est le plus utilisé.
 Nous avons remarqué qu’il y a eu 1 209K ventes avec remise contre 1 088K ventes sans remises.
 
-                             3- Maquette qui réponds au troisième prototype
+                             3- Taleaux de bord qui réponds au troisième prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/37ac3000-31f9-4bf1-ad27-848fcbc7b99c)
                             
-On a fait un champ calculé ’Chiffre d’affaire’ en effectuant la somme des profits afin d’évaluer la
-performance financière de notre entreprise.
-Nous constatons que c’est en 2023 qu’il y a eu le meilleur chiffre d'affaires, et une grande partie de ce  montant provient principalement de la région Ouest.
+Nous avons créé un champ calculé intitulé **Chiffre d’affaires**, en utilisant la formule :
+Somme des profits. Cet indicateur nous permet d’évaluer la performance financière globale de l’entreprise.
 
-                             4- Maquette qui réponds au quatrième prototype
+**Résultats clés:**
+
+- Année la plus performante : L’année 2023 enregistre le meilleur chiffre d’affaires.
+- Contribution régionale : Une grande partie de ce montant provient principalement de la région Ouest, soulignant son importance stratégique dans les performances globales.
+
+                             4- Taleaux de bord qui réponds au quatrième prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/306b3a3b-1dda-494e-b861-0d861343375b)
 
-On a créé un champ calculé coût en faisant la formule [ventes-profit] afin d’optimiser l’utilisation des ressources.
-On a créé une infobulle qui montre la provenance du coût pour chaque région dans chaque catégorie de
-produits. Cela permet une meilleure visualisation de la répartition des coûts par catégorie pour chaque
-région.
+Nous avons créé un champ calculé Coût, en utilisant la formule :
+**[Ventes - Profit]**, afin d’optimiser l’utilisation des ressources et d’évaluer l'efficacité des opérations.
+
+**Infobulle de répartition des coûts**:
+
+Nous avons également intégré une infobulle qui affiche la provenance du coût pour chaque région, répartie par catégorie de produits. Cette fonctionnalité permet :
+
+- Une visualisation détaillée de la répartition des coûts par catégorie pour chaque région.
+- Une analyse plus précise des zones géographiques et des catégories de produits les plus impactées par les coûts.
 
 
