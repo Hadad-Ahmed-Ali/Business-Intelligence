@@ -1,10 +1,10 @@
 
-                                     **But du Projet**
+                                     But du Projet
   
 Il s'agit d'un projet académique réalisé dans le cadre de mon Master 1. L'objectif de ce projet est de savoir transformer les aveux de l'entreprise (comprendres les Users story), savoir identifier des indicateurs de performances au vu des Users stories et en fin concevoir des tableaux de bord interactifs afin de maîtriser l'utilisation de Tableau. 
 
 
-                                       **Contexte**
+                                     Contexte
 
 Il s'agit d'une entreprise américaine, elle opere sur la vente au détail partout dans le monde. Les données disponibles concernent uniquement les données relatives des ventes effectuées aux Etats Unis. 
 
@@ -13,21 +13,21 @@ D'une façon précise, le context est le suivant:
     L’entreprise de vente au détail fait face à des difficultés financières : 
                     **Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?**
 
-                                       **Remarque**
+                                       Remarque
 Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l'ouvrir pour visualiser mon travail dans l'outil Tableau. Assurez-vous d'avoir installé Tableau sur votre ordinateur.
 
-                                  **Les differents Users-Stories**
+                                  Les differents Users-Stories
 
 J'ai recueilli les informations ( les aveux) provenant de différentes parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier et le Responsable Import/Export, ont été identifiés comme cibles:
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/eb8f7cf0-f5d2-41c3-bd45-cb118eb6a142)
 
 
-                                  **Identifications des Indicateurs de performence (KPI)**
+                                  Identifications des Indicateurs de performence (KPI)
 
 A la suite des informatioons obtenues pour chaque partie prenante, j'ai identifié quatres indicateurs clés de performance notament **le profit, les ventes, le chiffre d’affaires et le coût**.
 
-                                  **Prototypage**
+                                  Prototypage
 
 Le prototypage émerge comme une étape importante dans notre approche pour répondre aux demandes des responsables. Nous utilisons cette méthode pour regrouper les User Stories en fonction de indicateurs de performance spécifiques. Cette méthode offre ainsi une vue structurée des exigences alignées sur les objectifs stratégiques de l’entreprise.
 En identifiant les indicateurs de performance tels que le **Profit, les Ventes, le Chiffre d’affaires et les Coûts**, nous organisons nos User Stories en quatres prototypes distincts.
