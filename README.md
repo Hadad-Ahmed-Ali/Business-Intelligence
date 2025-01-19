@@ -1,6 +1,6 @@
                                        Remarque
-- Je vous joins le fichier tableau en pièce jointe. Vous pouvez l'ouvrir pour bien visualiser mon travail dans tableau. Pour ce faire, vous devez avoir installé Tableau sur votre ordinateur.
-- C'est un projet académique de mon Master 1, où l'objectif est l'élaboration des tableaux des bodrs interactifs pour de maitriser l'outil Tableau. 
+- Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l'ouvrir pour visualiser mon travail dans l'outil Tableau. Assurez-vous d'avoir installé Tableau sur votre ordinateur.
+- Ce fichier fait partie d'un projet académique réalisé dans le cadre de mon Master 1. L'objectif de ce projet est de concevoir des tableaux de bord interactifs afin de maîtriser l'utilisation de Tableau. 
 
                                        But du Projet
 
@@ -9,7 +9,7 @@ L’entreprise de vente au détail fait face à des difficultés financières :
                     Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?
 
 Les principales parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier 
-et le Responsable Import/Export, ont été identifiés comme cibles. Dans la suite de cette étude nous avons identifié quatre KPI (indicateurs clés de performance), 
+et le Responsable Import/Export, ont été identifiés comme cibles. Dans la suite de cette étude j'ai identifié quatre KPI (indicateurs clés de performance), 
 qui semblent être les plus pertinents pour chaque cible.
 
                                   Les differents Users-Stories
