@@ -1,30 +1,37 @@
-                                       Remarque
-- Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l'ouvrir pour visualiser mon travail dans l'outil Tableau. Assurez-vous d'avoir installé Tableau sur votre ordinateur.
-- Ce fichier fait partie d'un projet académique réalisé dans le cadre de mon Master 1. L'objectif de ce projet est de concevoir des tableaux de bord interactifs afin de maîtriser l'utilisation de Tableau. 
 
-                                       But du Projet
+                                     **But du Projet**
+  
+Il s'agit d'un projet académique réalisé dans le cadre de mon Master 1. L'objectif de ce projet est de savoir transformer les aveux de l'entreprise (comprendres les Users story), savoir identifier des indicateurs de performances au vu des Users stories et en fin concevoir des tableaux de bord interactifs afin de maîtriser l'utilisation de Tableau. 
 
-Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, je dois mettre en place des tableaux de bord dynamiques permettant un suivi efficace des KPI et facilitant la prise de décisions stratégiques. 
-L’entreprise de vente au détail fait face à des difficultés financières : 
-                    Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?
 
-Les principales parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier 
-et le Responsable Import/Export, ont été identifiés comme cibles. Dans la suite de cette étude j'ai identifié quatre KPI (indicateurs clés de performance), 
-qui semblent être les plus pertinents pour chaque cible.
+                                       **Contexte**
 
-                                  Les differents Users-Stories
+Il s'agit d'une entreprise américaine, elle opere sur la vente au détail partout dans le monde. Les données disponibles concernent uniquement les données relatives des ventes effectuées aux Etats Unis. 
+
+Pour répondre aux exigences de l’entreprise et fournir des informations stratégiques à différents niveaux de responsabilité, je dois mettre en place des tableaux de bord dynamiques permettant un suivi efficace de certaines indicateurs de performence (KPI) et facilitant la prise de décisions stratégiques. 
+D'une façon précise, le context est le suivant:
+    L’entreprise de vente au détail fait face à des difficultés financières : 
+                    **Comment l’aider à suivre les ventes afin de maximiser son profit tout en minimisant ses coûts et en générant un chiffre d'affaires optimal ?**
+
+                                       **Remarque**
+Je vous joins le fichier Tableau en pièce jointe. Vous pouvez l'ouvrir pour visualiser mon travail dans l'outil Tableau. Assurez-vous d'avoir installé Tableau sur votre ordinateur.
+
+                                  **Les differents Users-Stories**
+
+J'ai recueilli les informations ( les aveux) provenant de différentes parties prenantes, notamment le Directeur Général, le Directeur de Région, le Directeur d’État, le Responsable de Ville, le Responsable Financier et le Responsable Import/Export, ont été identifiés comme cibles:
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/eb8f7cf0-f5d2-41c3-bd45-cb118eb6a142)
 
 
-                                  Identifications des KPIs
-Nous avons identifié quatre KPI à savoir le profit, les ventes, le chiffre d’affaires et le coût.
+                                  **Identifications des Indicateurs de performence (KPI)**
 
-                                  Prototypage
+A la suite des informatioons obtenues pour chaque partie prenante, j'ai identifié quatres indicateurs clés de performance notament **le profit, les ventes, le chiffre d’affaires et le coût**.
 
-Le prototypage émerge comme une étape importante dans notre approche pour répondre aux demandes des responsables. Nous utilisons cette méthode pour regrouper les User Stories en fonction
-de KPI spécifiques. Cette méthode offre ainsi une vue structurée des exigences alignées sur les objectifs stratégiques de l’entreprise.
-En identifiant les KPI tels que le Profit, les Ventes, le Chiffre d’affaires et les Coûts, nous organisons nos User Stories en quatres prototypes distincts.
+                                  **Prototypage**
+
+Le prototypage émerge comme une étape importante dans notre approche pour répondre aux demandes des responsables. Nous utilisons cette méthode pour regrouper les User Stories en fonction de indicateurs de performance spécifiques. Cette méthode offre ainsi une vue structurée des exigences alignées sur les objectifs stratégiques de l’entreprise.
+En identifiant les indicateurs de performance tels que le **Profit, les Ventes, le Chiffre d’affaires et les Coûts**, nous organisons nos User Stories en quatres prototypes distincts.
+
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/123ec3c3-b9a3-4a4e-a529-0e8cf23002b7)
 
 
