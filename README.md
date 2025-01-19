@@ -50,15 +50,21 @@ Voici les tableaux de bord conçus pour répondre aux différents prototypes dé
                            1- Taleaux de bord qui réponds au premier prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/826ebe8e-b57f-47ed-b3de-4192672ff3ba)
 
-On a créé un paramètre top N states qui ordonne les States en fonction du profit.
-Nous avons ensuite créé 2 ensembles : Ensemble State et Ensemble State 2 en leur fixant comme
-paramètre le ’top N States’.
-On les applique ensuite comme filtres : ‘Ensemble State’ affiche les N States avec le meilleur profit et
-un ‘Ensemble State 2’ affiche les states avec les pires profits.
-Dans les vues ’Top N Total Profit’ et ’Top N Perte’, nous avons utilisé une infobulle qui indique l’origine
-du profit de chaque État en fonction des catégories.
-De même, dans la vue ’Total Profit par Catégorie et Région’, une infobulle est utilisé pour montrer
-l’origine du profit d’une catégorie en fonction des sous-catégories.
+Dans ce tableau de bord, nous avons créé un paramètre **"Top N States"** qui permet de classer les États en fonction du profit.
+
+Ensuite, deux ensembles ont été définis :
+
+- **Ensemble State**
+- **Ensemble State 2**
+
+Ces ensembles sont configurés en fonction du paramètre **"Top N States"**. Nous les appliquons ensuite comme filtres :
+
+- Ensemble State affiche les N États générant le meilleur profit.
+- Ensemble State 2 affiche les États avec les pires profits.
+
+Dans les vues **"Top N Total Profit"** et **"Top N Perte"**, une **infobulle** est utilisée pour indiquer l'origine du profit de chaque État, en fonction des catégories de produits.
+
+De même, dans la vue **"Total Profit par Catégorie et Région"**, une **infobulle** affiche l’origine du profit pour chaque catégorie, en détaillant les sous-catégories concernées.
 
                            2- Taleaux de bord qui réponds au deuxième prototype
 ![image](https://github.com/Hadad-Ahmed-Ali/Business-Intelligence/assets/128106188/4173913b-52f4-4bca-a775-44ff90e275c9)
